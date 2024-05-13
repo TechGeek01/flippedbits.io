@@ -10,13 +10,13 @@
 	 */
 
 	/* General colors */
-	--clr-bg1: #600034;
-	--clr-bg2: #600060;
-	--clr-bg1-alt: #acc900;
-	--clr-bg2-alt: #8ac900;
-	--clr-bg-alt-text: #333;
+	--clr-bg1: #201e1e;
+	--clr-bg2: #3b3631;
+	--clr-bg1-alt: #ff7300;
+	--clr-bg2-alt: #ff8800;
+	--clr-bg-alt-text: #282424;
 	--clr-gray: #3e3f46;
-	--clr-accent: #9bc900;
+	--clr-accent: #ff8800;
 
 	/* Layout & spacing */
 	--content-width:  1200px;
